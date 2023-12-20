@@ -1,9 +1,0 @@
-fact restaurant - Phone, grade,DBA, CAMIS
-Dim Geo - Boro, Buidling, Street, zipcode, Latitude, Longitude,Location point 1
-Dim Date - Inspection Date new and old, grade date new and old, record date new and old
-Dim Cuisine - Cuisine Description
-Dim Violation - violation code, violation description, critical flag, Action, Score
-Dim Inspection - Inspection type
-Dim Community Council - Community Board, Council District, Census Tract, BIN, BBL, NTA
-
-DI_Date Created and DI Workflow File name in all entities
